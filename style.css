@@ -1,0 +1,62 @@
+body {
+
+    font-family: Arial, sans-serif;
+    line-height: 1.8;
+    margin: 0;
+    padding: 0;
+
+}
+
+
+header {
+
+    padding: 80px 10%;
+    text-align: center;
+
+}
+
+
+h1 {
+
+    font-size: 50px;
+
+}
+
+
+nav {
+
+    text-align:center;
+    padding:20px;
+
+}
+
+
+nav a {
+
+    margin:20px;
+    text-decoration:none;
+    color:black;
+
+}
+
+
+section {
+
+    padding:60px 15%;
+
+}
+
+
+.project {
+
+    margin-bottom:40px;
+
+}
+
+
+footer {
+
+    text-align:center;
+    padding:30px;
+
+}
